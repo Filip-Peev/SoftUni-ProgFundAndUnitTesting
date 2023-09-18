@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            double USD = double.Parse(Console.ReadLine());
+            Console.WriteLine(USD* 1.79549);
         }
     }
 }
