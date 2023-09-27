@@ -19,9 +19,12 @@
                         shoes = "Sneakers";
                         break;
                     case "Afternoon":
+<<<<<<< HEAD
                         //clothing = "Shirt";
                         //shoes = "Moccasins";
                         //break;
+=======
+>>>>>>> 9ee55e6943a4ef16fa7bbd5b6723c43fec114c55
                     case "Evening":
                         clothing = "Shirt";
                         shoes = "Moccasins";
@@ -34,9 +37,12 @@
                 switch (time)
                 {
                     case "Morning":
+<<<<<<< HEAD
                         //clothing = "Shirt";
                         //shoes = "Moccasins";
                         //break;
+=======
+>>>>>>> 9ee55e6943a4ef16fa7bbd5b6723c43fec114c55
                     case "Evening":
                         clothing = "Shirt";
                         shoes = "Moccasins";
@@ -49,7 +55,11 @@
                     default: break;
                 }
             }
+<<<<<<< HEAD
             else if (temp >=25)
+=======
+            else if (temp >= 25)
+>>>>>>> 9ee55e6943a4ef16fa7bbd5b6723c43fec114c55
             {
                 switch (time)
                 {

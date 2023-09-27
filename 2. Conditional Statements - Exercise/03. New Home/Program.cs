@@ -54,7 +54,11 @@ namespace _03._New_Home
             }
 
             if (sum <= budget)
+<<<<<<< HEAD
                 Console.WriteLine($"Hey, you have a great garden with {count} {type} and {budget-sum:F2} leva left.");
+=======
+                Console.WriteLine($"Hey, you have a great garden with {count} {type} and {budget - sum:F2} leva left.");
+>>>>>>> 9ee55e6943a4ef16fa7bbd5b6723c43fec114c55
             else
             {
                 Console.WriteLine($"Not enough money, you need {sum - budget:F2} leva more.");

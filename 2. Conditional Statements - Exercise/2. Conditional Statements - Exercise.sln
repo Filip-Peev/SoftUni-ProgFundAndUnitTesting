@@ -13,9 +13,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Fishing Boat", "04. Fis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Journey", "05. Journey\05. Journey.csproj", "{7CE557EA-72BE-44D9-8E80-6D4506277C97}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Operations", "06. Operations\06. Operations.csproj", "{C1AC07E5-E7E5-4F7D-A9F9-F0797825805B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Hotel Room", "07. Hotel Room\07. Hotel Room.csproj", "{8CBEFE41-D0D1-48C6-84B0-F8A203403983}"
+=======
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Operations", "06. Operations\06. Operations.csproj", "{C1AC07E5-E7E5-4F7D-A9F9-F0797825805B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Hotel Room", "07. Hotel Room\07. Hotel Room.csproj", "{8CBEFE41-D0D1-48C6-84B0-F8A203403983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. On Time For Exam", "08. On Time For Exam\08. On Time For Exam.csproj", "{1BA0C976-A1AB-4953-ABCD-8D61FA015B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Ski Holiday", "09. Ski Holiday\09. Ski Holiday.csproj", "{8B987854-69A7-43DD-A0F8-2E1A2394735A}"
+>>>>>>> 9ee55e6943a4ef16fa7bbd5b6723c43fec114c55
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +61,17 @@ Global
 		{8CBEFE41-D0D1-48C6-84B0-F8A203403983}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CBEFE41-D0D1-48C6-84B0-F8A203403983}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CBEFE41-D0D1-48C6-84B0-F8A203403983}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+=======
+		{1BA0C976-A1AB-4953-ABCD-8D61FA015B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA0C976-A1AB-4953-ABCD-8D61FA015B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA0C976-A1AB-4953-ABCD-8D61FA015B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA0C976-A1AB-4953-ABCD-8D61FA015B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B987854-69A7-43DD-A0F8-2E1A2394735A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B987854-69A7-43DD-A0F8-2E1A2394735A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B987854-69A7-43DD-A0F8-2E1A2394735A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B987854-69A7-43DD-A0F8-2E1A2394735A}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 9ee55e6943a4ef16fa7bbd5b6723c43fec114c55
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

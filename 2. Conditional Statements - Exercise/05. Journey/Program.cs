@@ -9,7 +9,10 @@
             string location = "";
             string country = "";
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9ee55e6943a4ef16fa7bbd5b6723c43fec114c55
             if (season == "summer")
             {
                 location = "Camp";

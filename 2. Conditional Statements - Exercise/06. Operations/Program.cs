@@ -58,7 +58,11 @@
                     }
                     else
                     {
+<<<<<<< HEAD
                     Console.WriteLine($"{a} % {b} = {a % b}");
+=======
+                        Console.WriteLine($"{a} % {b} = {a % b}");
+>>>>>>> 9ee55e6943a4ef16fa7bbd5b6723c43fec114c55
                     }
                     break;
                 default:
